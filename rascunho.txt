@@ -1,0 +1,5 @@
+step: coletar dados do site OK
+step: tirar screenshot ou salvar imagem OK
+step: salva dados -> salvar em banco de dados
+step: passar para uma planilha excel
+step: imprimir esses dados em uma tela/ poder seleciona-los, ver % de desconto (ex) ordenar por maior/menor valor.
